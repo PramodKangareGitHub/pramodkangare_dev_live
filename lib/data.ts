@@ -61,7 +61,7 @@ export const projectsData = [
   {
     title: "RestaurantBookingApp",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "I worked as a full-stack developer on this project for 2 months. This is Restaurant reservation application where people can view restaurants and reserve tables",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl:
       "https://res.cloudinary.com/dwg3olxlh/image/upload/v1699973168/pramodkangare.dev/x4rspzfgaz0hrax9tmy5.png",
